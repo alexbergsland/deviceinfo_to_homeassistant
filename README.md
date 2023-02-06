@@ -1,6 +1,7 @@
 # Device info to homeassistant
 Send hdd and ram data to home assistant with python.
 
+&nbsp;
 ## Requirements
 Python 3.3 or newer.\
 `shutil.disk_usage` requires Python 3.3 and above.
